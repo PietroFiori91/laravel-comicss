@@ -3,7 +3,7 @@
 @section('title', 'Lista Fumetti')
 
 @section('content')
-    <h1>Lista dei Fumetti</h1>
+    <h1>Lista Fumetti</h1>
     <ul>
         @foreach ($comics as $comic)
             <li>
